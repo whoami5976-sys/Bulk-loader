@@ -17,7 +17,7 @@ class Config(object):
     APP_ID = int(os.environ.get('30744675'))
 
     # Your Bot Token
-    BOT_TOKEN = os.environ.get('BOT_TOKEN')
+    BOT_TOKEN = os.environ.get('8578130308:AAEdXrHfDd3SJDr5d5ORqKWi0g3jPyAg_2E')
 
     # Your Telegram ID (optional)
     OWNER_ID = os.environ.get('OWNER_ID')
