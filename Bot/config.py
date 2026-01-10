@@ -11,10 +11,10 @@ load_dotenv()
 class Config(object):
 
     # Your API HASH
-    API_HASH = os.environ.get('API_HASH')
+    API_HASH = os.environ.get('2b2ab5de1550aaf6e8c4bb91daf8d1cf')
 
     # Your API ID
-    APP_ID = int(os.environ.get('APP_ID'))
+    APP_ID = int(os.environ.get('30744675'))
 
     # Your Bot Token
     BOT_TOKEN = os.environ.get('BOT_TOKEN')
