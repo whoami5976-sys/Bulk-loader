@@ -11,13 +11,13 @@ load_dotenv()
 class Config(object):
 
     # Your API HASH
-    API_HASH = os.environ.get('2b2a8c4bb91daf8d1cf')
+    API_HASH = os.environ.get('2b2ab5de1550aaf6e8c4bb91daf8d1cf')
 
     # Your API ID
-    APP_ID = int(os.environ.get('3675'))
+    APP_ID = int(os.environ.get('30744675'))
 
     # Your Bot Token
-    BOT_TOKEN = os.environ.get('8578130308:')
+    BOT_TOKEN = os.environ.get('')
 
     # Your Telegram ID (optional)
     OWNER_ID = os.environ.get('OWNER_ID')
